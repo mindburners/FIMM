@@ -1,1 +1,1 @@
-v0.9.4 - Initial release
+v0.10 - EASY page, 8 operator waves, four-corner vector morph, 16-step sequencer, 80 patch memories
