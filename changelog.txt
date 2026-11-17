@@ -1,1 +1,1 @@
-v0.10 - EASY page, 8 operator waves, four-corner vector morph, 16-step sequencer, 80 patch memories
+v0.12 - 6-operator engine, DX7 voice import, 64 new sounds
