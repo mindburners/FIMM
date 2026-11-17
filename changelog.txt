@@ -1,1 +1,1 @@
-v0.12 - 6-operator engine, DX7 voice import, 64 new sounds
+v0.13 - 6-operator engine, DX7 voice import, morph, X-MOD, 64 new sounds
